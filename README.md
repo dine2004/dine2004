@@ -36,6 +36,16 @@ In the next 5 years, I aspire to be a **senior technology innovator**, making me
 ## 📫 Connect With Me
 [![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkarthick307@gmail.com)        [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-karthick/)        [![Git Hub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dine2004)
 
+<div align=center>
+    <div>
+          <img width=450 src="https://github-readme-stats.vercel.app/api?username=dine2004&count_private=true&show_icons=true&theme=synthwave&border_radius=10" alt="readme stats" />
+    </div>
+  <br/>
+    <div  style="padding-top:100px;">
+          <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dine2004&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    </div>
+</div>
+
 ---
 
 > _"Stay curious, stay creative, and never stop building!"_
