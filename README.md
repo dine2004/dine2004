@@ -1,5 +1,6 @@
-# Hi there, I'm Dinesh Karthick! 👋
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinesh+Karthick!;" />
+</h1>
 ## 🚀 About Me
 I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a strong foundation in **Full Stack Development**, **Database Management**, and **Website Development**. I enjoy crafting seamless user experiences, building robust backends, and exploring the intersection of data and technology to create meaningful solutions. 
 
