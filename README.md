@@ -36,7 +36,7 @@ In the next 5 years, I aspire to be a **senior technology innovator**, making me
 ## 📫 Connect With Me
 [![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkarthick307@gmail.com)        [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-karthick/)        [![Git Hub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dine2004)
 
-## 💡 Stats
+## ⚡ Stats
 <div align=center>
     <div>
           <img width=450 src="https://github-readme-stats.vercel.app/api?username=dine2004&count_private=true&show_icons=true&theme=synthwave&border_radius=10" alt="readme stats" />
