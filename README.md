@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/dine2004">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:yourmail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/dinesh-karthick">LinkedIn</a> •
+  <a href="mailto:dkarthick307@gmail.com">Email</a>
 </p>
 
 ---
@@ -58,33 +58,10 @@ I enjoy transforming raw data into meaningful insights and building analytical s
 
 ---
 
-## 📂 Projects
-
-- **📊 Excel Sales Analysis Project** *(In Progress)*  
-  - Data cleaning, pivot tables, and charts  
-  - Sales trend and regional performance analysis  
-
-- **📈 Power BI Dashboard – Data Analytics Workshop**  
-  - Built interactive dashboards and KPIs  
-  - Visual storytelling using real-world datasets  
-
-More projects will be added as I continue building and learning.
-
----
-
 ## 🎓 Education
 
 **B.Tech – Artificial Intelligence and Data Science**  
 Easa College of Engineering & Technology  
-
----
-
-## 📜 Certifications
-
-- Data Analytics Mega Workshop – NxtWave (Dashboard Building)  
-- CCBP 4.0 Academy – Programming Fundamentals  
-- Network Essentials – Cisco  
-- Cyber Security Essentials – Cisco  
 
 ---
 
@@ -97,8 +74,8 @@ Easa College of Engineering & Technology
 
 ## 🤝 Let’s Connect
 
-I’m open to **Data Analyst Intern**, **Python Developer Intern**, and  
-**Entry-Level Data Analytics roles**.
+I’m open to **Data Analyst**, **Python Developer**, and  
+**AI & ML roles**.
 
 📩 Feel free to connect with me on LinkedIn or explore my repositories!
 
