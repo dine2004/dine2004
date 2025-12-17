@@ -2,7 +2,37 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinesh+Karthick!;" />
 </h1>
 ## 🚀 About Me
-I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a strong foundation in **Full Stack Development**, **Database Management**, and **Website Development**. I enjoy crafting seamless user experiences, building robust backends, and exploring the intersection of data and technology to create meaningful solutions. 
+## 👋 Hi, I'm R. Dinesh Karthick
+
+🎯 Aspiring Data Analyst | Excel • SQL • Power BI • Python
+
+I am a B.Tech graduate in Artificial Intelligence and Data Science with hands-on exposure to data analytics through internships, workshops, and academic projects.
+
+I enjoy cleaning raw data, analyzing trends, and building dashboards that help businesses make data-driven decisions.
+
+---
+
+## 🛠️ Data Analytics Skills
+- Microsoft Excel (Pivot Tables, VLOOKUP, Charts)
+- SQL (MySQL – Queries, Joins, Aggregations)
+- Power BI (Dashboard Building, Data Visualization)
+- Python (Pandas, NumPy – Basics)
+- Statistics & Business Analysis
+
+---
+
+## 📂 Data Analytics Projects
+- 📊 Sales Analysis using Excel (Dashboard & Insights) – *In Progress*
+- 📈 Power BI Sales Dashboard – *Planned*
+
+---
+
+## 🎓 Education
+B.Tech – Artificial Intelligence & Data Science  
+Easa College of Engineering & Technology
+
+---
+ 
 
 ## 💻 My Skillset
 - **Full Stack Development**: Experienced with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
